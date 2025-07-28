@@ -1,28 +1,22 @@
 import json
 import os
-import re
 from pathlib import Path
 from datetime import datetime
 import fitz  # PyMuPDF
 from sentence_transformers import SentenceTransformer, util
+import re
 
-# --- Corrected Configuration ---
-# Use pathlib.Path to define all paths. This creates Path objects, not strings.
-# The script was designed for Docker, but for local execution,
-# you can define the base directory like this.
+# Configuration - Use dynamic path detection based on script location
 BASE_DIR = Path(__file__).resolve().parent
 
-# Define other paths relative to the script's location or an absolute path
-INPUT_DIR = BASE_DIR / "input" # Assumes 'input' is in the same directory as the script
+# Define paths relative to script location
+INPUT_DIR = BASE_DIR / "input"
 OUTPUT_DIR = BASE_DIR / "output"
-
-# The following lines now correctly create Path objects
 DOCS_DIR = INPUT_DIR / "documents"
 STRUCTURE_DIR = INPUT_DIR / "structured_data"
 REQUEST_FILE = INPUT_DIR / "request.json"
 OUTPUT_FILE = OUTPUT_DIR / "challenge1b_output.json"
 
-# The rest of your script remains the same...
 # Use a lightweight model
 MODEL_NAME = 'all-MiniLM-L6-v2'
 

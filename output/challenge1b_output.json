@@ -1,0 +1,103 @@
+{
+    "metadata": {
+        "input_documents": [
+            "file01.pdf",
+            "file02.pdf",
+            "file03.pdf",
+            "file04.pdf",
+            "file05.pdf"
+        ],
+        "persona": "A junior software tester who has just earned their Foundation Level certificate",
+        "job_to_be_done": "Understand what the 'Agile Tester Extension' is, what the entry requirements and learning objectives are, and what key skills I will gain to prepare for the exam.",
+        "processing_timestamp": "2025-07-28T17:45:17.096895Z"
+    },
+    "extracted_sections": [
+        {
+            "document": "file02.pdf",
+            "page_number": 1,
+            "section_title": "2. Introduction to Foundation Level Agile Tester Extension",
+            "importance_rank": 1
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 1,
+            "section_title": "Agile Tester",
+            "importance_rank": 2
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 1,
+            "section_title": "4. Professionals who are experienced in their role (including unit testing) and need more",
+            "importance_rank": 3
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 1,
+            "section_title": "3. Overview of the Foundation Level Extension – Agile Tester",
+            "importance_rank": 4
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 1,
+            "section_title": "Software Testing",
+            "importance_rank": 5
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 1,
+            "section_title": "Software Testing",
+            "importance_rank": 6
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 1,
+            "section_title": "Software Testing",
+            "importance_rank": 7
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 1,
+            "section_title": "Software Testing",
+            "importance_rank": 8
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 1,
+            "section_title": "Software Testing",
+            "importance_rank": 9
+        },
+        {
+            "document": "file02.pdf",
+            "page_number": 1,
+            "section_title": "Software Testing",
+            "importance_rank": 10
+        }
+    ],
+    "sub_section_analysis": [
+        {
+            "document": "file02.pdf",
+            "refined_text": "2. Introduction to Foundation Level Agile Tester Extension \nThe certification for Foundation Level Extension – Agile Tester is designed for professionals who are \nworking within Agile environments. It is also for professionals who are planning to start implementing \nAgile methods in the near future, or are working within companies that plan to do so, The certification \nprovides an advantage for those who would like to know the required Agile activities, roles, methods, and \nmethodologies specific to their role. \n2.1 Intended Audience \nThe Foundation Level Extension – Agile Tester qualification is aimed at four main groups of professionals:",
+            "page_number": 1
+        },
+        {
+            "document": "file02.pdf",
+            "refined_text": "Agile Tester \nIn this document, each Foundation Level Extension syllabus is summarized and the associated Business \nOutcomes are stated. The Business Outcomes communicate what can be expected from a person who \nachieves a Foundation Level Extension Certification in a particular subject area (e.g., Agile Tester), and \nwill outline the benefits for companies that are considering the development of specific testing skills at this \nlevel. \nVersion 2014 \nPage 6 of 12 \nMay 31, 2014 \n© International Software Testing Qualifications Board",
+            "page_number": 1
+        },
+        {
+            "document": "file02.pdf",
+            "refined_text": "4. Professionals who are experienced in their role (including unit testing) and need more \nunderstanding and knowledge about how to perform and manage testing on all levels in Agile \nprojects. \nThese professionals include people who are in roles such as testers, test analysts, test engineers, test \nconsultants, test managers, user acceptance testers, and software developers. \nThis Foundation Level Extension – Agile Tester certification may also be appropriate for anyone who \nwants a deeper understanding of software testing in the Agile world, such as project managers, quality \nmanagers, software development managers, business analysts, IT directors, and management \nconsultants. \n2.2 Career Paths for Testers \nBuilding on the Foundation Level, the Agile Tester Extension supports the definition of career paths for \nprofessional testers. A person with the Agile Tester certificate has extended the broad understanding of \ntesting acquired at the Foundation Level to enable him or her to work effectively as a professional tester in \nan Agile project.  \nPeople possessing an ISTQB Foundation Level Extension – Agile Tester certificate may use the Certified \nTester Foundation Level acronym ...",
+            "page_number": 1
+        },
+        {
+            "document": "file02.pdf",
+            "refined_text": "3. Overview of the Foundation Level Extension – Agile Tester",
+            "page_number": 1
+        },
+        {
+            "document": "file02.pdf",
+            "refined_text": "Software Testing \nFoundation Level Extension – Agile Tester",
+            "page_number": 1
+        }
+    ]
+}
